@@ -6,7 +6,7 @@ public class MainPrueba {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Hola Mundo nuevo");
+		System.out.println("Hola Mundo nuevo y maravilloso");
 		System.out.println(saluda("Jonathan"));
 
 	}
