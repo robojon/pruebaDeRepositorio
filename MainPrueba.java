@@ -2,7 +2,7 @@
 public class MainPrueba {
 	
 	public static String saluda(String nombre) {
-		return "Soy "+nombre;
+		return "Soy un hombre llamado "+nombre;
 	}
 
 	public static void main(String[] args) {
